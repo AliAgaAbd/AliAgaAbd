@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliAgaAbd
+- 👋 Hi, I’m [Ali.aga](https://github.com/AliAgaAbd)
 - I am a app designer
 - You can see a list of my apps below
 ## GUI applications
